@@ -1,0 +1,26 @@
+PlayDate will be an app where Parents are able to set up playdates with local parents. During this time of COVID-19 
+it has become increasingly hard to have kids socialize with other kids. Parents are more reluctant to have their kids
+outside but with this app there can be a common public place to meet, such as park or local playplace. Events can be 
+set up by parents and limits can be set up with how many people can join the event. Each parent can create a profile 
+that will The event planner example was what gave me the idea for this project. I also have kids of my own that I 
+would like to be able to have socialize with more kids in a more controlled environemnt. 
+
+One feature that I would like to include but im not sure how i would go about that is that meetings can only be set up 
+in public places. Maybe you could report an event that includes a private address. 
+
+Also would like to put past events on the user profile 
+
+There will be a registration page
+A profile page
+    Profile will include Name
+    Number of kids
+    Age of kids 
+    Dietary Restrictions( Important incase a child has a severe allergy, cannot bring certain items)
+Make an event form
+    Event form will include location date time and the allergy restrictions to make sure noone brings something harmful
+An Event page
+    Saw in the event planner to use the google maps api which i would do
+    will include a check in button
+    will also include a ratings button. This should create a rating for the person who created the event and not the event itself
+    able to make comments on the event
+
